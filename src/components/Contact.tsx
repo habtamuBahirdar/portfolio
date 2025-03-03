@@ -47,8 +47,8 @@ const Contact = () => {
     {
       icon: <MapPin size={24} className="text-indigo-600" />,
       title: 'Location',
-      details: 'San Francisco, CA',
-      link: 'https://maps.google.com/?q=San+Francisco,+CA',
+      details: 'Bahirdar, Ethiopia',
+      link: 'https://maps.google.com/?q=Bahirdar,+ET',
     },
   ];
 
