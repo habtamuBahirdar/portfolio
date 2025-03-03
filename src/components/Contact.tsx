@@ -35,14 +35,14 @@ const Contact = () => {
     {
       icon: <Mail size={24} className="text-indigo-600" />,
       title: 'Email',
-      details: 'contact@example.com',
-      link: 'mailto:contact@example.com',
+      details: 'habtamu.ayeneweth@gmail.com',
+      link: 'mailto:habtamu.ayeneweth@gmail.com',
     },
     {
       icon: <Phone size={24} className="text-indigo-600" />,
       title: 'Phone',
-      details: '+1 (555) 123-4567',
-      link: 'tel:+15551234567',
+      details: '+251 918-781221',
+      link: 'tel:0918781221',
     },
     {
       icon: <MapPin size={24} className="text-indigo-600" />,
